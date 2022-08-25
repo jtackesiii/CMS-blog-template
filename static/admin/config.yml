@@ -5,12 +5,12 @@ media_folder: "static/img"
 public_folder: "/img"
 collections:
   - name: 'blog'
-    label: 'Responses'
-    folder: 'content/responses'
-    path: {{slug}}/index
-    media_folder: ""
-    public_folder: ""
+    label: 'Blog'
+    folder: 'content/blog'
     create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }

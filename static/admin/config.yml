@@ -7,10 +7,10 @@ collections:
   - name: 'responses'
     label: 'Responses'
     folder: 'content/responses'
-    create: true
     path: {{slug}}/index
     media_folder: ""
     public_folder: ""
+    create: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
@@ -20,4 +20,5 @@ collections:
       - { label: 'Text Color' , name: 'text' , widget: 'color'}
   - name: 'style'
     label: 'Customization'
-    file: 'data/styles.yaml'
+    files:
+      - file: 'data/styles.yaml'

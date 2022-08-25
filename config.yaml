@@ -1,3 +1,5 @@
 baseURL: "https://example.org"
 languageCode: 'en-us'
 title: 'Sacred Space in South Asia'
+author:
+  name: 'Nick Tackes'

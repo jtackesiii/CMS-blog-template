@@ -4,15 +4,20 @@ backend:
 media_folder: static/img
 public_folder: /img
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'responses'
+    label: 'Responses'
+    folder: 'content/responses'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
+    path: {{slug}}/index
+    media_folder: ""
+    public_folder: ""
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Featured Image', name: 'image', widget: 'image' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Background Color' , name: 'background' , widget: 'color'}
+      - { label: 'Text Color' , name: 'text' , widget: 'color'}
+  - name: 'style'
+    label: 'Customization'
+    file: 'data/styles.yaml'

@@ -4,7 +4,7 @@ backend:
 media_folder: "static/img"
 public_folder: "/img"
 collections:
-  - name: 'responses'
+  - name: 'blog'
     label: 'Responses'
     folder: 'content/responses'
     path: {{slug}}/index
@@ -18,7 +18,3 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
       - { label: 'Background Color' , name: 'background' , widget: 'color'}
       - { label: 'Text Color' , name: 'text' , widget: 'color'}
-  - name: 'style'
-    label: 'Customization'
-    files:
-      - file: 'data/styles.yaml'

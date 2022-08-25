@@ -1,0 +1,20 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+media_folder: "static/img"
+public_folder: "/img"
+collections:
+  - name: 'blog'
+    label: 'Responses'
+    folder: 'content/responses'
+    path: {{slug}}/index
+    media_folder: ""
+    public_folder: ""
+    create: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'image', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Background Color' , name: 'background' , widget: 'color'}
+      - { label: 'Text Color' , name: 'text' , widget: 'color'}

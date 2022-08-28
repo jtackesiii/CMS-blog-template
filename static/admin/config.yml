@@ -25,9 +25,13 @@ collections:
         fields:
           - label: 'Name'
             name: 'author'
-            - { label: 'Name', name: 'name', widget: 'string' }
+            widget: 'object'
+            fields:
+              - { label: 'Name', name: 'name', widget: 'string'}
           - label: 'Styles'
             name: 'Params'
-            - { label: 'Background Color', name: 'background', widget: 'color' }
-            - { label: 'Surface Color', name: 'surface', widget: 'color' }
-            - { label: 'Text Color', name: 'text', widget: 'color' }
+            widget: 'object'
+            fields:
+              - { label: 'Background Color', name: 'background', widget: 'color' }
+              - { label: 'Surface Color', name: 'surface', widget: 'color' }
+              - { label: 'Text Color', name: 'text', widget: 'color' }

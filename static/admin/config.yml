@@ -41,4 +41,6 @@ collections:
             fields:
               - { label: 'Background Color', name: 'background', widget: 'color' }
               - { label: 'Surface Color', name: 'surface', widget: 'color' }
-              - { label: 'Text Color', name: 'text', widget: 'color' }
+              - { label: 'Primary Color', name: 'primary', widget: 'color' }
+              - { label: 'Secondary Color', name: 'secondary', widget: 'color' }
+              - { label: 'Accent Color', name: 'accent', widget: 'color' }

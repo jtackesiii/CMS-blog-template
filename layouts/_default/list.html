@@ -3,8 +3,10 @@
 {{ partial "head" . }}
 <body>
     {{ partial "main" . }}
-            <ul>{{range .Site.RegularPages }}
-            <li><a href="{{ .Permalink }}" class="directory">{{ .Params.title }}</a></li>
+            <ul class="directory">
+            <li><h3>Explore the site:</h3></li>
+            {{range .Site.RegularPages }}
+            <li><a href="{{ .Permalink }}">{{ .Params.title }}</a></li>
             {{ end }}</ul>
 </body>
 {{ partial "footer" . }}

@@ -1,7 +1,9 @@
 <main>
     <nav>
-        <ul>{{range .Site.RegularPages }}
-            <li><a href="{{ .Permalink }}" class="nav-link">{{ .Params.title }}</a></li>
+        <ul>
+            <li class="nav-link"><a href="{{.Site.BaseURL}}">Home</a></li>
+            {{range .Site.RegularPages }}
+            <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.title }}</a></li>
             {{ end }}</ul>
     </nav>
     <h1 class="centered">{{.Params.Title }}</h1>

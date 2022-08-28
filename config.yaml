@@ -7,4 +7,6 @@ author:
 Params:
   background: ""
   surface: ""
-  text: ""
+  primary: ""
+  secondary: ""
+  accent: ""

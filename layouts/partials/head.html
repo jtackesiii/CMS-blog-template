@@ -8,7 +8,9 @@
             {{ with .Site.Params }}
             {{ if .background }}--clr-background: {{ .background }};{{ end }}
             {{ if .surface }}--clr-surface: {{ .surface }}; {{ end }}
-            {{ if .text }}--clr-text: {{ .text }}; {{ end }}
+            {{ if .primary }}--clr-primary: {{ .primary }}; {{ end }}
+            {{ if .secondary }}--clr-secondary: {{ .secondary }}; {{ end }}
+            {{ if .accent }}--clr-accent: {{ .accent }}; {{ end }}
             {{ end }}
         }
     </style>

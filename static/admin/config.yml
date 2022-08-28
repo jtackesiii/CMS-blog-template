@@ -18,17 +18,20 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'config'
     label: 'Configuration'
-    file: 'config.yaml'
-    fields:
-      - label: 'Name'
-        name: 'author'
-        widget: 'list'
+    files:
+      - name: 'config'
+        label: 'Configuration'
+        file: 'config.yaml'
         fields:
-          - { label: '', name: 'name', widget: 'string'}
-      - label: 'Styles'
-        name: 'Params'
-        widget: 'list'
-        fields:
-          - { label: 'Background Color', name: 'background', widget: 'color' }
-          - { label: 'Surface Color', name: 'surface', widget: 'color' }
-          - { label: 'Text Color', name: 'text', widget: 'color' }
+          - label: 'Name'
+            name: 'author'
+            widget: 'list'
+            fields:
+              - { label: '', name: 'name', widget: 'string'}
+          - label: 'Styles'
+            name: 'Params'
+            widget: 'list'
+            fields:
+              - { label: 'Background Color', name: 'background', widget: 'color' }
+              - { label: 'Surface Color', name: 'surface', widget: 'color' }
+              - { label: 'Text Color', name: 'text', widget: 'color' }

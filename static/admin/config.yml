@@ -23,6 +23,13 @@ collections:
         label: 'Configuration'
         file: 'config.yaml'
         fields:
+          - label: 'Site Title'
+            name: 'title'
+            widget: 'string'
+          - label: 'Web Address'
+            name: 'baseURL'
+            widget: 'string'
+            hint: 'your site's URL as given by Netlify'
           - label: 'Name'
             name: 'author'
             widget: 'object'

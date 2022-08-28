@@ -25,13 +25,9 @@ collections:
         fields:
           - label: 'Name'
             name: 'author'
-            widget: 'list'
-            fields:
-              - { label: '', name: 'name', widget: 'string'}
+              - { label: 'Name', name: 'name', widget: 'string' }
           - label: 'Styles'
             name: 'Params'
-            widget: 'list'
-            fields:
               - { label: 'Background Color', name: 'background', widget: 'color' }
               - { label: 'Surface Color', name: 'surface', widget: 'color' }
               - { label: 'Text Color', name: 'text', widget: 'color' }

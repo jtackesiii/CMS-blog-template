@@ -2,4 +2,9 @@ baseURL: "https://shimmering-figolla-4e124d.netlify.app/"
 languageCode: 'en-us'
 title: 'Sacred Space in South Asia'
 author:
-  name: 'Nick Tackes'
+  name: '[your name(s) here]'
+
+Params:
+  background: ""
+  surface: ""
+  text: ""

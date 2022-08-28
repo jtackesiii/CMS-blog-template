@@ -29,7 +29,7 @@ collections:
           - label: 'Web Address'
             name: 'baseURL'
             widget: 'string'
-            hint: 'your site's URL as given by Netlify'
+            hint: "your site's URL as given by Netlify"
           - label: 'Name'
             name: 'author'
             widget: 'object'

@@ -127,8 +127,8 @@ body {
 main {
   display: flex;
   gap: var(--size-400);
-  justify-content: center;
   flex-direction: column;
+  justify-content: flex-start;
 }
 
 main p {

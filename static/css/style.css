@@ -27,10 +27,10 @@ html:focus-within {
 
 /* Set core body defaults */
 
-html,
-body {
-    height: 100%;
-}
+ html,
+ body {
+  height: 100%;
+ }
 
 body {
   text-rendering: optimizeSpeed;
@@ -90,7 +90,6 @@ html {
 body {
   background-color: var(--clr-surface, #fcf6e3);
   width: min(80vw, 100ch);
-  padding: var(--size-300);
   margin-inline: auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -118,16 +117,28 @@ nav ul {
   gap: var(--size-400);
 }
 
-main {
+body {
   display: grid;
   gap: var(--size-400);
   justify-content: center;
+  grid-auto-flow: row;
+}
+
+main {
+  display: flex;
+  gap: var(--size-400);
+  justify-content: center;
+  flex-direction: column;
+}
+
+main p {
+  padding-inline: var(--size-700);
 }
 
 footer {
-  position: absolute;
-  bottom: 10px;
-  width: inherit;
+  padding: var(--size-400);
+  width: 100%;
+  margin-top: auto;
   text-align: center;
 }
 
@@ -164,4 +175,10 @@ nav a:hover {
 
 .directory li {
   list-style-type: none;
+}
+
+img {
+  margin-inline: auto;
+  padding-block: var(--size-400);
+  max-height: 50vh;
 }

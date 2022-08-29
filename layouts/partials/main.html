@@ -7,5 +7,13 @@
             {{ end }}</ul>
     </nav>
     <h1 class="centered">{{if .IsHome}}{{.Site.Title}}{{else}}{{.Params.Title }}{{end}}</h1>
+    {{ if .Params.image }}
+    <figure>
+        <img src="{{ .Params.image}}"  />
+        <figcaption class="centered">
+           <h4>{{ .Params.caption }}</h4>
+        </figcaption>
+</figure>
+    {{ end }}
     {{ .Content }}
 </main>

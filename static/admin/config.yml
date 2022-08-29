@@ -42,6 +42,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: 'overview'
         label: 'Overview'
@@ -50,6 +51,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: 'history'
         label: 'History'
@@ -58,6 +60,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: 'practice'
         label: 'Practice'
@@ -66,6 +69,7 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: 'bibliography'
         label: 'Annotated Bibliography'
@@ -74,4 +78,5 @@ collections:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
           - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }

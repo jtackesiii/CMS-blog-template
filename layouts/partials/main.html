@@ -3,10 +3,9 @@
         <ul>
             <li class="nav-link"><a href="{{.Site.BaseURL}}">Home</a></li>
             {{range .Site.RegularPages }}
-            <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.title }}</a></li>
+            <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.shortTitle }}</a></li>
             {{ end }}</ul>
     </nav>
-    <h1 class="centered">{{.Params.Title }}</h1>
+    <h1 class="centered">{{if .IsHome}}{{.Site.Title}}{{else}}{{.Params.Title }}{{end}}</h1>
     {{ .Content }}
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique odit beatae porro, veritatis atque facere provident aliquam maxime consequatur quaerat, quia ratione nam magni necessitatibus error dolor, magnam officia labore voluptates illo eius quod vitae? In hic dolore numquam! Cumque accusamus iusto minima labore dicta ut repudiandae tenetur ducimus at.</p>
 </main>

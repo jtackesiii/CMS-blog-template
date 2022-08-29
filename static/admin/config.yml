@@ -4,18 +4,6 @@ backend:
 media_folder: "static/img"
 public_folder: "/img"
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
-    create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Featured Image', name: 'image', widget: 'image' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'config'
     label: 'Configuration'
     files:
@@ -44,3 +32,46 @@ collections:
               - { label: 'Primary Color', name: 'primary', widget: 'color' }
               - { label: 'Secondary Color', name: 'secondary', widget: 'color' }
               - { label: 'Accent Color', name: 'accent', widget: 'color' }
+  - name: 'pages'
+    label: 'Pages'
+    files:
+      - name: 'home'
+        label: 'Home'
+        file: 'content/_index.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'overview'
+        label: 'Overview'
+        file: 'content/overview.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'history'
+        label: 'History'
+        file: 'content/history.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'practice'
+        label: 'Practice'
+        file: 'content/practice.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - name: 'bibliography'
+        label: 'Annotated Bibliography'
+        file: 'content/bibliography.md'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - { label: 'Featured Image', name: 'image', widget: 'image' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }

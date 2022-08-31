@@ -1,11 +1,10 @@
-languageCode: 'en-us'
-title: 'Sacred Space in South Asia'
-baseURL: "https://sacred-space-in-south-asia.netlify.app/"
+languageCode: en-us
+title: Sacred Space in South Asia
+baseURL: https://sacred-space-in-south-asia.netlify.app/
 author:
-  name: '[your name(s) here]'
-
+  name: Nick
 Params:
-  background: ""
+  background: "#c02a2a"
   surface: ""
   primary: ""
   secondary: ""

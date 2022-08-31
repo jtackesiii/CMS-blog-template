@@ -27,11 +27,11 @@ collections:
             name: 'Params'
             widget: 'object'
             fields:
-              - { label: 'Background Color', name: 'background', widget: 'color' }
-              - { label: 'Surface Color', name: 'surface', widget: 'color' }
-              - { label: 'Primary Color', name: 'primary', widget: 'color' }
-              - { label: 'Secondary Color', name: 'secondary', widget: 'color' }
-              - { label: 'Accent Color', name: 'accent', widget: 'color' }
+              - { label: 'Background Color', name: 'background', widget: 'color', required: 'false' }
+              - { label: 'Surface Color', name: 'surface', widget: 'color', required: 'false' }
+              - { label: 'Primary Color', name: 'primary', widget: 'color', required: 'false' }
+              - { label: 'Secondary Color', name: 'secondary', widget: 'color', required: 'false' }
+              - { label: 'Accent Color', name: 'accent', widget: 'color', required: 'false' }
   - name: 'pages'
     label: 'Pages'
     files:

@@ -53,6 +53,7 @@ collections:
           - { label: 'Featured Image', name: 'image', widget: 'image' }
           - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {label: "Location", name: "location", widget: "map", type: "polygon", required: false }
       - name: 'history'
         label: 'History'
         file: 'content/history.md'
@@ -62,6 +63,7 @@ collections:
           - { label: 'Featured Image', name: 'image', widget: 'image' }
           - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {label: "Location", name: "location", widget: "map", type: "polygon", required: false }
       - name: 'practice'
         label: 'Practice'
         file: 'content/practice.md'
@@ -71,6 +73,7 @@ collections:
           - { label: 'Featured Image', name: 'image', widget: 'image' }
           - { label: 'Image Caption', name: 'caption', widget: 'string'}
           - { label: 'Body', name: 'body', widget: 'markdown' }
+          - {label: "Location", name: "location", widget: "map", type: "polygon", required: false }
       - name: 'bibliography'
         label: 'Annotated Bibliography'
         file: 'content/bibliography.md'

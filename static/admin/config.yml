@@ -41,8 +41,8 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Featured Image', name: 'image', widget: 'image' }
-          - { label: 'Image Caption', name: 'caption', widget: 'string'}
+          - { label: 'Featured Image', name: 'image', widget: 'image', required: false }
+          - { label: 'Image Caption', name: 'caption', widget: 'string', required: false}
           - { label: 'Body', name: 'body', widget: 'markdown' }
       - name: 'overview'
         label: 'Overview'
@@ -50,8 +50,8 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Featured Image', name: 'image', widget: 'image' }
-          - { label: 'Image Caption', name: 'caption', widget: 'string'}
+          - { label: 'Featured Image', name: 'image', widget: 'image', required: false }
+          - { label: 'Image Caption', name: 'caption', widget: 'string', required: false}
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {label: "Location", name: "location", widget: "map", type: "Polygon", required: false }
       - name: 'history'
@@ -60,8 +60,8 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Featured Image', name: 'image', widget: 'image' }
-          - { label: 'Image Caption', name: 'caption', widget: 'string'}
+          - { label: 'Featured Image', name: 'image', widget: 'image', required: false }
+          - { label: 'Image Caption', name: 'caption', widget: 'string', required: false}
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {label: "Location", name: "location", widget: "map", type: "Polygon", required: false }
       - name: 'practice'
@@ -70,8 +70,8 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Featured Image', name: 'image', widget: 'image' }
-          - { label: 'Image Caption', name: 'caption', widget: 'string'}
+          - { label: 'Featured Image', name: 'image', widget: 'image', required: false }
+          - { label: 'Image Caption', name: 'caption', widget: 'string', required: false}
           - { label: 'Body', name: 'body', widget: 'markdown' }
           - {label: "Location", name: "location", widget: "map", type: "Polygon", required: false }
       - name: 'bibliography'
@@ -80,6 +80,6 @@ collections:
         fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-          - { label: 'Featured Image', name: 'image', widget: 'image' }
-          - { label: 'Image Caption', name: 'caption', widget: 'string'}
+          - { label: 'Featured Image', name: 'image', widget: 'image', required: false }
+          - { label: 'Image Caption', name: 'caption', widget: 'string', required: false}
           - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -1,19 +1,20 @@
-<main>
-    <nav>
-        <ul>
-            <li class="nav-link"><a href="{{.Site.BaseURL}}">Home</a></li>
-            {{range .Site.RegularPages }}
-            <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.shortTitle }}</a></li>
-            {{ end }}</ul>
-    </nav>
-    <h1 class="centered">{{if .IsHome}}{{.Site.Title}}{{else}}{{.Params.Title }}{{end}}</h1>
-    {{ if .Params.image }}
-    <figure>
-        <img src="{{ .Params.image}}"  />
-        <figcaption class="centered">
-           <h4>{{ .Params.caption }}</h4>
-        </figcaption>
+<nav>
+  <ul>
+  <li class="nav-link"><a href="{{.Site.BaseURL}}">Home</a></li>
+  {{range .Site.RegularPages }}
+  <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.shortTitle }}</a></li>
+  {{ end }}</ul>
+</nav>
+<h1 class="centered">{{if .IsHome}}{{.Site.Title}}{{else}}{{.Params.Title }}{{end}}</h1>
+{{ if .Params.image }}
+<figure>
+    <img src="{{ .Params.image}}"  />
+    <figcaption class="centered">
+       <h4>{{ .Params.caption }}</h4>
+    </figcaption>
 </figure>
-    {{ end }}
-    {{ .Content }}
-</main>
+{{ end }}
+<div class="content">{{ .Content }}</div>
+{{ if .Params.location }}
+<div id="map"></div>
+{{ end }}

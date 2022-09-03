@@ -1,0 +1,15 @@
+<script>
+
+  var map = L.map('map');
+
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '© OpenStreetMap'
+  }).addTo(map);
+
+  var poly = JSON.parse({{ .Params.location }});
+  var bounds = L.geoJSON(poly).addTo(map);
+  map.fitBounds(bounds.getBounds());
+  map.fitBounds(bounds.getBounds());
+
+</script>

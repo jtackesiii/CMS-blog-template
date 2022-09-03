@@ -26,13 +26,12 @@ html:focus-within {
 }
 
 /* Set core body defaults */
-
- html,
- body {
+html {
   height: 100%;
- }
+}
 
 body {
+  min-height: 100%;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
@@ -89,7 +88,7 @@ html {
 
 body {
   background-color: var(--clr-surface, #fcf6e3);
-  width: min(80vw, 100ch);
+  width: clamp(300px, 80vw, 100ch);
   margin-inline: auto;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -99,15 +98,15 @@ p {
 }
 
 h1 {
-  font-size: var(--size-700);
+  font-size: max(var(--size-500), var(--size-700));
 }
 
 h2 {
-  font-size: var(--size-600);
+  font-size: max(var(--size-400), var(--size-600));
 }
 
 h3 {
-  font-size: var(--size-500);
+  font-size: max(var(--size-400), var(--size-500));
 }
 
 nav ul {
@@ -128,11 +127,10 @@ main {
   display: flex;
   gap: var(--size-400);
   flex-direction: column;
-  justify-content: flex-start;
 }
 
-main p {
-  padding-inline: var(--size-700);
+.content, #map {
+  margin-inline: var(--size-700);
 }
 
 footer {
@@ -181,4 +179,8 @@ img {
   margin-inline: auto;
   padding-block: var(--size-400);
   max-height: 50vh;
+}
+
+#map {
+  height: 50vh;
 }

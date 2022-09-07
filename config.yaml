@@ -9,3 +9,4 @@ Params:
   primary: ""
   secondary: ""
   accent: ""
+  mapStyle: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"

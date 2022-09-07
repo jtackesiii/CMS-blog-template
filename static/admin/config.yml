@@ -32,6 +32,14 @@ collections:
               - { label: 'Primary Color', name: 'primary', widget: 'color', required: false }
               - { label: 'Secondary Color', name: 'secondary', widget: 'color', required: false }
               - { label: 'Accent Color', name: 'accent', widget: 'color', required: false }
+              - label: 'Map Style'
+                name: 'mapStyle'
+                widget: 'select'
+                options:
+                  - { label: "default", name: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"}
+                  - { label: "humanitarian", name: "https://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png"}
+                  - { label: "linear", name: "https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png"}
+                  - { label: "watercolor", name: "https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg"}
   - name: 'pages'
     label: 'Pages'
     files:

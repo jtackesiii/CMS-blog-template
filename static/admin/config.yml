@@ -36,10 +36,10 @@ collections:
                 name: 'mapStyle'
                 widget: 'select'
                 options:
-                  - { label: "default", name: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"}
-                  - { label: "humanitarian", name: "https://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png"}
-                  - { label: "linear", name: "https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png"}
-                  - { label: "watercolor", name: "https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg"}
+                  - { label: "default", value: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"}
+                  - { label: "humanitarian", value: "https://a.tile.openstreetmap.fr/hot/${z}/${x}/${y}.png"}
+                  - { label: "linear", value: "https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png"}
+                  - { label: "watercolor", value: "https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg"}
   - name: 'pages'
     label: 'Pages'
     files:

@@ -184,3 +184,7 @@ img {
 #map {
   height: 50vh;
 }
+
+figcaption {
+  text-align: center;
+}

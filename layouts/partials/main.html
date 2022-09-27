@@ -1,5 +1,6 @@
 <nav>
-  <ul>
+  <button class="mobile-nav-toggle" aria-controls="primary-navigation" aria-expanded="false"><span class="sr-only">Menu</span></button>
+  <ul id="primary-navigation" data-visible="false">
   <li class="nav-link"><a href="{{.Site.BaseURL}}">Home</a></li>
   {{range .Site.RegularPages }}
   <li class="nav-link"><a href="{{ .Permalink }}" >{{ .Params.shortTitle }}</a></li>

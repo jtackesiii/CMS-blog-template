@@ -7,3 +7,7 @@ location: '{"type":"Polygon","coordinates":[[[-75.4133857,43.0452659],[-75.40751
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique odit beatae porro, veritatis atque facere provident aliquam maxime consequatur quaerat, quia ratione nam magni necessitatibus error dolor, magnam officia labore voluptates illo eius quod vitae? In hic dolore numquam! Cumque accusamus iusto minima labore dicta ut repudiandae tenetur ducimus at.
+
+{{< youtube id="qk-9Ez3xICY" title="Bodh Gaya: Center of the Buddhist World" >}}
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique odit beatae porro, veritatis atque facere provident aliquam maxime consequatur quaerat, quia ratione nam magni necessitatibus error dolor, magnam officia labore voluptates illo eius quod vitae? In hic dolore numquam! Cumque accusamus iusto minima labore dicta ut repudiandae tenetur ducimus at.

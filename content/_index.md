@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Ajmer Sharif Dargah
 shortTitle: Home
 weight: 100
 date: 2022-08-29T17:20:17.791Z

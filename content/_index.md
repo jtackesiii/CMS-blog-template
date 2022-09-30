@@ -4,7 +4,7 @@ shortTitle: Home
 weight: 100
 date: 2022-08-29T17:20:17.791Z
 image: https://media.news9live.com/h-upload/2022/05/26/397177-ajmer-sharif-dargah.webp
-caption: image caption
+caption: Ajmer Sharif Dargah
 ---
 <!--StartFragment-->
 

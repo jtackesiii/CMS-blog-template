@@ -7,6 +7,7 @@
   {{ end }}</ul>
 </nav>
 <h1 class="centered">{{if .IsHome}}{{.Site.Title}}{{else}}{{.Params.Title }}{{end}}</h1>
+<div id="{{ .Params.shortTitle }}">
 {{ if .Params.image }}
 <figure>
     <img src="{{ .Params.image}}"  />
@@ -19,3 +20,4 @@
 {{ if .Params.location }}
 <div id="map"></div>
 {{ end }}
+</div>

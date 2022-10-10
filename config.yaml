@@ -4,7 +4,7 @@ baseURL: https://dulcet-empanada.app
 author:
   name: Bobby Grygiel
 Params:
-  background: ""
+  background: "#d8a848"
   surface: ""
   primary: ""
   secondary: ""

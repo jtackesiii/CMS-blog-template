@@ -1,12 +1,12 @@
 languageCode: en-us
 title: Sacred Space in South Asia
-baseURL: https://sacred-space-in-south-asia.netlify.app/
+baseURL: https://dulcet-empanada.app
 author:
-  name: Nick Tackes
+  name: Bobby Grygiel
 Params:
   background: ""
   surface: ""
   primary: ""
   secondary: ""
   accent: ""
-  mapStyle: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+  mapStyle: https://tile.openstreetmap.org/{z}/{x}/{y}.png

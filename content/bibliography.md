@@ -1,7 +1,57 @@
 ---
-title: 'Annotated Bibliography'
-shortTitle: 'Bibliography'
+title: Annotated Bibliography
+shortTitle: Bibliography
 weight: 500
+date: 2022-10-21T20:40:49.066Z
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique odit beatae porro, veritatis atque facere provident aliquam maxime consequatur quaerat, quia ratione nam magni necessitatibus error dolor, magnam officia labore voluptates illo eius quod vitae? In hic dolore numquam! Cumque accusamus iusto minima labore dicta ut repudiandae tenetur ducimus at.
+Sufism in India: The Sharif Dargah at Ajmer is the tomb of a Sufi saint, and as such, requires a foundational knowledge of Sufism in India. These materials provide anti-essentialist perspectives that delineate the overlap between Sufism and other religions, and as such, are useful when discussing inter-religious practices in Sufi spaces.
+
+Ernst, Carl W. Refractions of Islam in India : Situating Sufism and Yoga. Los Angeles: Sage, 2016.
+
+This book is a collection of Ernst’s essays “focusing on South Asian Sufism, and on Muslim reflections on the cultures and religions of India” (Ernst i). Ernst translates Indian Muslism texts and analyzes Muslim egnagement with aspects of Indian culture, including art, literature, and yoga. Additionally, he avoids a binary approach when studying Sufism and yoga, encouraging the reader to avoid essentialist thought. Ernst argues that essentialist conceptions of religion are often not historically founded, and have a tendency to make “religions rather than people into agents” (Ernst 261). Ernst’s antiessentialist strategies are important when analyzing interactions between religious communities in inter-religious spaces.
+
+ Guzel Ferdinandovna Mratkhuzina, Dmitriy Vyacheslavovich Bobkov, Alfiya Marselevna Khabibullina, and Ishtiak Gilkar Ahmad. “Sufism: Spiritual and Cultural Traditions in India.” Tarih kültür ve sanat araştırmalari dergisi 8, no. 3 (2019): 434–41. 
+
+This article summarizes the spread of Sufism and Islam into and throughout India, and identifies gaps and trends within the surrounding historiography. The authors identify saints and Sufis as agents of inter-religious unity, and Sufism as a “foundation of a composite culture in India” (Mratkhuzina, Bobkov, Khabibullina, Ahmad, 439). They delineate the actions of Sufi Sheikhs, who conversed with non-Muslims about religious practices and taught the love of God, regardless of caste of religion. Additionally, they denote the influence of Sufism on non-Muslims by analyzing syncretic practices and rituals. By summarizing the historical context of interactions between Muslims and non-Mislims, this article provides a foundation for inter-religious relations in India.
+
+Jafri, Saiyid Zaheer Husain, and Reifeld, Helmut (eds). The Islamic Path. Sufism, Politics and Society in India. New Delhi: Rainbow Publishers, 2006. Xiii+425 pp, ISBN 81-86962-86-7.
+
+This book consists of eighteen essays that outline the role of Sufism and Sufi shaikhs in spread Islam to South Asia. These eighteen essays are separated into six sections: Literature and Sufic thought, Society and Politics of Sufic Centers, Cultural Contexts of Gender, ‘Reformist Islam’ and Sufism, and The Denial of Sufism. Many essays in the collection received criticism for making broad generalizations without sufficient evidence; however, I want to pay particular attention to an interesting piece by Madhuri Gupta, which delineates the incorporation of Shaikh Musa as a model proselytizer into the religious identity of the people of Mewat, at which Shaikh Musa’s grave is located. This article is useful in discussions regarding the integration of legendary figures into religious identity.
+
+The Relationship Between Sectarianism and Inter-Religious Spaces: These materials analyze the actions and opinions of Sufis in inter-religious spaces within the context of an increasingly sectarian South Asia. Ajmer Sharif, for example, was bombed in 2007 by Hindu nationalists. Thus, when studying the practices of Sufis in religious centers, it is important to consider the religio-political context within which these centers exist.
+
+Parveen, Babli. “The Eclectic Spirit of Sufism in India: An Appraisal.” Social Scientist (New Delhi) 42, no. 11/12 (2014): 39–46
+
+In this essay, Parveen Babli seeks to educate the reader on the integral elements of Sufism in India in the context of the inter-Muslim debate between “ultra-orthodox Islamists and the Sufi groups” (Babli 39). Babli denotes elements of Sufism of which an uniformed reader might be unaware; namely, its basis in folk religious practices and the fluidity of its beliefs. In doing so, Babli hopes to bridge the inter-religious divisions in India by establishing these communities as inherently connected. She argues that the rigid characterizations of religious groups are erroneous, and that these groups are not so distinct as some claim, citing related practices in Islamic and Hindu communities. This essay is an attempt to bridge the widening gap between religious communities, and is thus relevant to discussions of inter-religious relations in India.
+
+ Bennett, Clinton, and Charles M. Ramsey. South Asian Sufis: Devotion, Deviation, and Destiny. Edited by Clinton Bennett and Charles M. Ramsey. London ;: Continuum International Publishing Group, 2012. 
+
+This book contains an ethnographic study of Sufis in South Asia that seeks to analyze the current practices of Sufism, their consistency with the founders of Sufism, their effects on religious coexistence and gender relations, and the potentials for the future of Sufism. Each author has a connection to South asia, either being from there, having lived there, or having done research there, and each has their own methodology and expertise. Despite the spread of contributors, they share an underlying goal “to listen to authentic voices, speaking on behalf of actual Sufi practice, resisting where possible the imposition of external notions” (Bennett, 3). Bennett, the author of the introduction, describes the themes of the book as “spiritual practice; community bonds, and social relationships; politics; the issue of what is “traditional Islam” as opposed to innovation or bid’a; and interfaith opennes” (Bennett 4). Thus, this book is useful in analyses regarding the beliefs and practices of South Asian Sufis, and their interactions with non-Muslims.
+
+  Heitmeyer, Carolyn. “Religion as Practice, Religion as Identity: Sufi Dargahs in Contemporary Gujarat.” South Asia 34, no. 3 (2011): 485–503.
+
+This article focuses on the contrast between the religious plurality of dargahs and the increasingly distinct religious identities in Gujarat, a state in India that borders Pakistan. Heitmeyer argues against the notion that syncretic spaces such as dargahs create communal harmony, citing the attacks on dargahs in Gujarat in 2002. She concludes by imploring the reader not to confuse overlapping religious practice with overlapping religious identity, encouraging us to consider the important role of caste and class when studying the patronization of these spaces. This article is relevant to discussions of religious identity and practice in India, and how the two intersect.
+
+     Kalra, Virinder S., and Umber Bin Ibad. “Gender, Sect and Shrine: Discursive Contestations at Bibi Pak Daman, Lahore.” Culture and Religion 20, no. 1 (2019): 65–81. 
+
+This article discusses the pluralism of dargahs in South Asia, focusing on Bibi Pak Daman, located in Lahore, Pakistan. Bibi Pak Daman is notable for being a shrine to several women who helped bring Islam to South Asia, and is mainly patroned by women Sufis. The authors reference Kelly Pemberton’s Women Mystics and Sufi Shrines in India, discussing the ways in which women Sufi pilgrims navigate religious traditions. In their conclusion, the authors posit that dargahs are studied so infrequently because of their syncretic nature, making them impractical for studies regarding a single religion; however, they argue that the dargahs’ ability to cross boundaries of sect and religion makes them an excellent tool for analyzing interactions between devotees in the context of state-enforced religious disunity.
+
+  Pemberton, Kelly. Women Mystics and Sufi Shrines in India. Columbia: University of South Carolina Press, 2010.
+
+This book is an ethnographic study of Sufi communities in India, with a focus on the role of women in these communities. Her book is based on fieldwork conducted at Sufi shrines, including at Ajmer Dargah, where she examined the devotional practices of female Sufi. She also examines the restrictive traditions placed on these women, who, despite their frequent undermining of these traditions, nevertheless affirmed the importance of determining which roles and behaviors are suitable for women. Based on these experiences, Pemberton argues against the typical dichotomy created between restrictive traditions and women’s resistance of these traditions, claiming that the reality is much more nuanced; that is, these women are not simply for or against these traditions. This article is critical in its examination of communal relationships across gender within Sufi spaces.
+
+Analyses of the Chishti Order: These materials are the most germane to my subject matter, in that they specifically discuss the history and practices of Chishti Order, and the formation of the shrine at Ajmer Dargah. When studying this religious center, these books will be the most useful, as they clearly delineate the key aspects of the Chishti Order, and how these aspects manifest in religious spaces.
+
+Currie, P.M.. The Shrine and Cult of Muʿīn al-Dīn Chishtī. Oxford University Press, 2006.
+
+Currie provides us with a study of Ajmer Sharif in the context of the development of Islam in northern India. He begins by discussing the role of saints and shrines, arguing that these were critical in making the sacred accessible to lay Muslims. Currie spends much of the book analyzing the mythology of Muʿīn al-Dīn Chishtī, noting the scarcity of reliable sources regarding Muʿīn al-Dīn’s life. Thus, he argues, the development of the shrine at Ajmer was based mainly on legend, and as such, these legends are pertinent when discussing the shrine itself. Currie keeps these legends in mind during the second half of his book, during which he analyzes the history of the shrine and its practices. Thus, this book is absolutely essential for the study of the Ajmer Dargah.
+
+  Ernst, Carl W., and Bruce B. Lawrence. Sufi Martyrs of Love : the Chishti Order in South Asia and Beyond. 1st ed. New York: Palgrave Macmillan, 2002.
+
+This book seeks to identify and summarize key aspects of the Chishti Order by discussing texts and figures that were heretofore unutilized in the historiography of Sufism. In the introduction, the authors reject the focus which scholars place on seemingly foundational figures and moments, seeking to “winnow the few pellets of truth lying beneath all the accumulated dross of legend and superstition” (48). The authors instead choose to focus on the patterns of practices and hagiography within the Chishti order, noting that many of these were adopted from other Sufi traditions, thus making it difficult to define one Sufi tradition without overlapping another. Additionally, the authors seek to combat the rhetoric of decline and revival, citing the continuity of Chishti traditions and practices. This book also includes a comprehensive bibliography of scholarship and primary sources, making it essential for further study into the Chishti Order.
+
+
+
+<!--EndFragment-->

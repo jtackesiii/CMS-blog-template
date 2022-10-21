@@ -4,8 +4,8 @@ baseURL: https://cozy-meerkat-3a32bd.netlify.app/
 author:
   name: Jameson Mannix
 Params:
-  background: ""
-  surface: ""
+  background: "#ffffff"
+  surface: "#960000"
   primary: ""
   secondary: ""
   accent: ""

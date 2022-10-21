@@ -6,7 +6,7 @@ date: 2022-10-21T20:40:49.066Z
 ---
 <!--StartFragment-->
 
-Sufism in India: The Sharif Dargah at Ajmer is the tomb of a Sufi saint, and as such, requires a foundational knowledge of Sufism in India. These materials provide anti-essentialist perspectives that delineate the overlap between Sufism and other religions, and as such, are useful when discussing inter-religious practices in Sufi spaces.
+**Sufism in India:** The Sharif Dargah at Ajmer is the tomb of a Sufi saint, and as such, requires a foundational knowledge of Sufism in India. These materials provide anti-essentialist perspectives that delineate the overlap between Sufism and other religions, and as such, are useful when discussing inter-religious practices in Sufi spaces.
 
 Ernst, Carl W. Refractions of Islam in India : Situating Sufism and Yoga. Los Angeles: Sage, 2016.
 
@@ -20,7 +20,7 @@ Jafri, Saiyid Zaheer Husain, and Reifeld, Helmut (eds). The Islamic Path. Sufism
 
 This book consists of eighteen essays that outline the role of Sufism and Sufi shaikhs in spread Islam to South Asia. These eighteen essays are separated into six sections: Literature and Sufic thought, Society and Politics of Sufic Centers, Cultural Contexts of Gender, ‘Reformist Islam’ and Sufism, and The Denial of Sufism. Many essays in the collection received criticism for making broad generalizations without sufficient evidence; however, I want to pay particular attention to an interesting piece by Madhuri Gupta, which delineates the incorporation of Shaikh Musa as a model proselytizer into the religious identity of the people of Mewat, at which Shaikh Musa’s grave is located. This article is useful in discussions regarding the integration of legendary figures into religious identity.
 
-The Relationship Between Sectarianism and Inter-Religious Spaces: These materials analyze the actions and opinions of Sufis in inter-religious spaces within the context of an increasingly sectarian South Asia. Ajmer Sharif, for example, was bombed in 2007 by Hindu nationalists. Thus, when studying the practices of Sufis in religious centers, it is important to consider the religio-political context within which these centers exist.
+**The Relationship Between Sectarianism and Inter-Religious Spaces:** These materials analyze the actions and opinions of Sufis in inter-religious spaces within the context of an increasingly sectarian South Asia. Ajmer Sharif, for example, was bombed in 2007 by Hindu nationalists. Thus, when studying the practices of Sufis in religious centers, it is important to consider the religio-political context within which these centers exist.
 
 Parveen, Babli. “The Eclectic Spirit of Sufism in India: An Appraisal.” Social Scientist (New Delhi) 42, no. 11/12 (2014): 39–46
 
@@ -42,7 +42,7 @@ This article discusses the pluralism of dargahs in South Asia, focusing on Bibi 
 
 This book is an ethnographic study of Sufi communities in India, with a focus on the role of women in these communities. Her book is based on fieldwork conducted at Sufi shrines, including at Ajmer Dargah, where she examined the devotional practices of female Sufi. She also examines the restrictive traditions placed on these women, who, despite their frequent undermining of these traditions, nevertheless affirmed the importance of determining which roles and behaviors are suitable for women. Based on these experiences, Pemberton argues against the typical dichotomy created between restrictive traditions and women’s resistance of these traditions, claiming that the reality is much more nuanced; that is, these women are not simply for or against these traditions. This article is critical in its examination of communal relationships across gender within Sufi spaces.
 
-Analyses of the Chishti Order: These materials are the most germane to my subject matter, in that they specifically discuss the history and practices of Chishti Order, and the formation of the shrine at Ajmer Dargah. When studying this religious center, these books will be the most useful, as they clearly delineate the key aspects of the Chishti Order, and how these aspects manifest in religious spaces.
+**Analyses of the Chishti Order:** These materials are the most germane to my subject matter, in that they specifically discuss the history and practices of Chishti Order, and the formation of the shrine at Ajmer Dargah. When studying this religious center, these books will be the most useful, as they clearly delineate the key aspects of the Chishti Order, and how these aspects manifest in religious spaces.
 
 Currie, P.M.. The Shrine and Cult of Muʿīn al-Dīn Chishtī. Oxford University Press, 2006.
 

@@ -5,7 +5,7 @@ author:
   name: Jameson Mannix
 Params:
   background: "#ffffff"
-  surface: "#960000"
+  surface: "#f1f1f1"
   primary: ""
   secondary: ""
   accent: ""

@@ -1,12 +1,12 @@
 languageCode: en-us
 title: Sacred Space in South Asia
-baseURL: https://sacred-space-in-south-asia.netlify.app/
+baseURL: https://cozy-meerkat-3a32bd.netlify.app/
 author:
-  name: Nick Tackes
+  name: Jameson Mannix
 Params:
-  background: ""
-  surface: ""
+  background: "#ffffff"
+  surface: "#f1f1f1"
   primary: ""
   secondary: ""
   accent: ""
-  mapStyle: "https://tile.openstreetmap.org/{z}/{x}/{y}.png"
+  mapStyle: https://tile.openstreetmap.org/{z}/{x}/{y}.png

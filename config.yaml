@@ -1,11 +1,11 @@
 languageCode: en-us
 title: Sacred Space in South Asia
-baseURL: https://cozy-meerkat-3a32bd.netlify.app/
+baseURL: https://dulcet-empanada-17b947.netlify.app
 author:
-  name: Jameson Mannix
+  name: Bobby Grygiel
 Params:
-  background: "#ffffff"
-  surface: "#f1f1f1"
+  background: "#9174ec"
+  surface: ""
   primary: ""
   secondary: ""
   accent: ""

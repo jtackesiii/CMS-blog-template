@@ -8,4 +8,4 @@ location: '{"type":"Polygon","coordinates":[[[77.670408,27.5040392],[77.6686624,
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique odit beatae porro, veritatis atque facere provident aliquam maxime consequatur quaerat, quia ratione nam magni necessitatibus error dolor, magnam officia labore voluptates illo eius quod vitae? In hic dolore numquam! Cumque accusamus iusto minima labore dicta ut repudiandae tenetur ducimus at.[^1]
 
-[﻿^1]: Let's make a footnote.
+[﻿^1]: Trying again.
